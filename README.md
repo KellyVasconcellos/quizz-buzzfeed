@@ -1,27 +1,45 @@
-# CloneBuzfeed
+# Clone Quizz Buzzfeed
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
+<h1>
+    <img src="public/img1.png">
+    <img src="public/img2.png">
+    <img src="public/img3.png">
+</h1>
 
-## Development server
+# Indice
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- [Sobre](#-sobre)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Como baixar o projeto](#-como-baixar-o-projeto)
 
-## Code scaffolding
+## 🔖&nbsp; Sobre
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Aplicação web feita em Angular consumindo Json, utilizando Async/Await. Projeto de **Quizz** para saber se você é um herói ou vilão.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+---
 
-## Running unit tests
+## 🚀 Tecnologias utilizadas
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-## Running end-to-end tests
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Angular](https://angular.io/)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+---
 
-## Further help
+## 🗂 Como baixar o projeto
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```bash
+    # Clonar o repositório
+    $ git clone https://github.com/KellyVasconcellos/quizz-buzzfeed.git
+    # Entrar no diretório
+    $ cd quizz-buzzfeed
+```
+
+---
+
+Desenvolvido 💜 por Kelly Vasconcellos
