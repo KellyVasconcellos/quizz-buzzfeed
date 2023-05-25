@@ -15,7 +15,7 @@
 ## 🔖&nbsp; Sobre
 
 Aplicação web feita em Angular consumindo Json, utilizando Async/Await. 
-Projeto de **Quizz** para saber se você é um herói ou vilão, que foi desenvolvido dentro do Bootcamp da DIO [Criando um Clone do BuzzFeed com Angular](https://www.dio.me/).
+Projeto de **Quizz** para saber se você é um herói ou vilão, que foi desenvolvido dentro do Bootcamp da DIO [Criando um Clone do BuzzFeed com Angular, Dio](https://www.dio.me/).
 
 
 ---
